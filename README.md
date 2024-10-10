@@ -1,5 +1,7 @@
 # VisioHarmony
 
+![Galactic Problem Solver](GalacticProblemSolver.jpg)
+
 ## Overview
 
 VisioHarmony is a unique application that combines image processing and sound generation to create an immersive audio-visual experience. The application is designed to load FITS files, commonly used in astronomy, and analyze the color distribution within the image to generate corresponding musical tones.
