@@ -1,6 +1,8 @@
 # VisioHarmony
 
-![Galactic Problem Solver](GalacticProblemSolver.jpg)
+<p align="center">
+  <img src="GalacticProblemSolver.jpg" alt="Galactic Problem Solver" style="width:60%; margin:auto;" />
+</p>
 
 ## Overview
 
